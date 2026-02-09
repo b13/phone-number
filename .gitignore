@@ -1,0 +1,7 @@
+.Build/
+var/
+composer.lock
+.php-cs-fixer.cache
+.env
+.idea
+.cache
